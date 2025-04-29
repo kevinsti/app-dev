@@ -1,7 +1,15 @@
 # My Favorite Movies/Series
 
-**1. Arcane
-2. Fight Club
-3. Inception
-4. Interstellar
-5. Pacific Rim**
+**Movies**
+1. Fight Club 
+2. Inception 
+3. Interstellar
+4. Pacific Rim
+5. Lucy
+
+**Series**
+1. Arcane
+2. The Boys
+3. The Walking Dead
+4. Breaking Bad
+5. The Queen's Gambit
