@@ -1,5 +1,4 @@
-# My-first-repository
-## My Favorite Movies/Series
+# My Favorite Movies/Series
 
 **1. Arcane
 2. Fight Club
